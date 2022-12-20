@@ -1,0 +1,358 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+body{
+    font-family: 'League Spartan', sans-serif;
+    display: block;
+}
+
+
+
+
+
+.nav-links {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 60.14%;
+   
+    top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 50px;
+    color: black;
+    text-decoration: none;
+  
+  }
+  .nav-linkk {
+        position: absolute;
+        width: 200px;
+        height: 100px;
+        left: 66.14%;
+       
+        top: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 29px;
+        line-height: 50px;
+        color: black;
+        text-decoration: none;
+  }
+  
+  
+  .nav-linkd {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 72.14%;
+    
+    top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 50px;
+    color: black;
+    text-decoration: none;
+  }
+
+  .nav-linka {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 78.14%;
+    
+    top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 50px;
+    color: black;
+    text-decoration: none;
+  }
+  
+
+  .title-container {
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    background: #ffffff;
+    z-index: -1px;
+  }
+
+  .title {
+    position:absolute;
+    text-align: center;
+    width: 900px;
+    height: 101px;
+    left: 1240px;
+    top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 80px;
+    color: black;
+    
+  }
+
+  .title-img {
+    position: absolute;
+    width: 1440px;
+    height: 1440px;
+    left: 1000px;
+    top: 600px;
+
+  }
+
+  .title-text {
+    position: absolute;
+    width: 1600px;
+    height: 101px;
+    left: 1020px;
+    top: 2300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 90px;
+    color: black;
+  }
+
+  .subtitle-text {
+    position: absolute;
+    width: 1200px;
+    height: 100px;
+    left: 1300px;
+    top: 2700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 30px;
+    color: black;
+  }
+
+  .practic-title {
+    position: absolute;
+    text-align: center;
+    width: 1500px;
+    height: 300px;
+    left: 1200px;
+    top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 80px;
+    color: black;
+  }
+
+  .practic-img{
+    position: absolute;
+    width: 900px;
+    height: 700px;
+    top: 500px;
+    left: 300px;
+  }
+
+  .practic-text {
+    position: absolute;
+    width: 1500px;
+    height: 200px;
+    left: 1440px;
+    top: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 80px;
+    color: black;
+  }
+
+  .practic-subtitle {
+    position: absolute;
+    width: 1200px;
+    height: 100px;
+    left: 1440px;
+    top: 1500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 30px;
+    color: black;
+  }
+
+  .practic-container {
+    background-color: black;
+  }
+
+  .practic-titles {
+    position: absolute;
+    text-align: center;
+    width: 1700px;
+    height: 300px;
+    left: 1000px;
+    top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 100px;
+    line-height: 80px;
+    color: black;
+  }
+
+  .prictic-subtitle {
+    position: absolute;
+    width: 1300px;
+    height: 200px;
+    left: 1000px;
+    top: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 60px;
+    color: black;
+  }
+
+
+  .practic-titles-img {
+    position: absolute;
+    width: 1100px;
+    height: 900px;
+    top: 1000px;
+    left: 1100px;
+  }
+
+  .practic-subtitle2 {
+    position: absolute;
+    width: 1300px;
+    height: 200px;
+    left: 1000px;
+    top: 2200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 60px;
+    color: black;
+  }
+
+  .practic-sibtitle3 {
+    position: absolute;
+    text-align: center;
+    width: 1700px;
+    height: 300px;
+    left: 800px;
+    top: 5600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 80px;
+    color: black;
+  }
+  
+
+  .video {
+    position: absolute;
+    width: 900px;
+    height: 400px;
+    top: 5800px;
+    left: 1200px;
+  }
+
+  .podval-subtitle {
+    position: absolute;
+    text-align: center;
+    width: 700px;
+    height: 300px;
+    left: 1300px;
+    top: 6500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: black;
+  }
+
+  .teoria-title {
+    position: absolute;
+    width: 1600px;
+    height: 200px;
+    left: 1000px;
+    top: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 60px;
+    color: black;
+  }
+
+  span {
+    font-weight: 800;
+  }
+
+  .href {
+    position: absolute;
+    width: auto;
+    height: 100px;
+    left: 1040px;
+    top: 3400px;
+    font-size: 30px;
+    color: black;
+  }
+
+  .teoria-img {
+    position: absolute;
+    width: 900px;
+    height: 700px;
+    left: 1220px;
+    top: 2600px;
+  }
+
+  .podval {
+    position: absolute;
+    text-align: center;
+    width: 700px;
+    height: 300px;
+    left: 1300px;
+    top: 3700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: black;
+  }
