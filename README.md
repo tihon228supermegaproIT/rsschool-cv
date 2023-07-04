@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tihonsupermegaproIT.github.io/rsschool-cv/cv
