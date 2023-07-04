@@ -12,16 +12,6 @@
         <div class="header"></div>
     </header>
     <main class="main">
-        <img src="myLogo.jpg" alt="logo" class="logo">
-        <h1 class="main-title">Klimkovich Tihon</h1>
-        <p class="main-subtitle">Front-end developer</p>
-        <div class="line-1"></div>
-        <h2 class="my-info-1">+375(29)304066</h2>
-        <div class="line-2"></div>
-        <h2 class="my-info-2">titun080909@gmail.com</h2>
-        <div class="line-3"></div>
-        <h2 class="my-info-4">Minsk, Belarus</h2>
-        <div class="line-4"></div>
     </main>
     <section class="my-info">
 
